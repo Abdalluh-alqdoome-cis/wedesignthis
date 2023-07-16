@@ -1,0 +1,316 @@
+.body {
+    height: 15000px;
+}
+
+.countaner {
+    width: 1200px;
+    margin: auto;
+}
+
+
+/*--------------------------start head-----------------------------*/
+
+.hed {
+    overflow: hidden;
+    height: 500px;
+    background-image: url("../image/Laptop_undrey_getty.jpg");
+}
+
+.hed h2 {
+    color: #FEFEFE;
+    text-transform: capitalize;
+    display: inline;
+}
+
+.hed h2 span {
+    color: #944D2D;
+}
+
+.hed .text {
+    height: 0;
+    margin-left: 1200px;
+}
+
+.hed .text p {
+    float: left;
+}
+
+.hed .desgn {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.hed .desgn p {
+    color: #FEFEFE;
+}
+
+.hed .desgn h1 {
+    color: #7d7878;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.hed .desgn span {
+    color: #D15A1C;
+}
+
+.hed .desgn button {
+    background: none;
+    border: #9CA0A3 solid 1px;
+}
+
+.hed .desgn button:hover {
+    background-color: #D15A1C;
+}
+
+
+/*--------------------------end head-----------------------------*/
+
+
+/*---------------------------start theme---------------------------*/
+
+.theme {
+    width: 25%;
+    height: 300px;
+    margin-top: 80px;
+}
+
+.theme .withtheme {
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+}
+
+.theme .withtheme i {
+    color: #D15A1C;
+    border-radius: 50%;
+    border: #9CA0A3 solid 1px;
+    padding: 15px;
+}
+
+.theme .withtheme h3 {
+    text-transform: uppercase;
+    color: #a9aab0;
+}
+
+.theme .withtheme p {
+    color: #C1C2C5;
+}
+
+
+/*---------------------------end theme---------------------------*/
+
+
+/*---------------------------star palk---------------------------*/
+
+.palk {
+    height: 200px;
+    background-image: url("../image/man-analysis-business-accounting-laptop-45719380.jpg");
+    overflow: hidden;
+}
+
+.palk input {
+    background: none;
+    border: #D15A1C solid 1px;
+    margin-top: 120px;
+    margin-left: 30%;
+}
+
+.palk button {
+    background: none;
+    margin-top: 90px;
+}
+
+.palk button:hover {
+    background-color: #D15A1C;
+}
+
+
+/*---------------------------end palk---------------------------*/
+
+
+/*---------------------------star team---------------------------*/
+
+.team p {
+    text-align: center;
+    color: #C1C2C5;
+}
+
+.team h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.team h1 span {
+    color: #D15A1C;
+}
+
+.team .photo {
+    margin-top: 50px;
+    float: left;
+    width: 25%;
+}
+
+.team .photo img {
+    margin-left: 20px;
+}
+
+.team .photo img:hover {
+    border-bottom: #D15A1C solid 2px;
+}
+
+.team .photo h3 {
+    margin-left: 40px;
+    color: #a9aab0;
+}
+
+.team .photo i {
+    padding-left: 40px;
+    padding-bottom: 10px;
+    color: rgb(49, 168, 247);
+}
+
+.team .photo q {
+    color: #CCCCCC;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/*---------------------------end team---------------------------*/
+
+
+/*---------------------------start halo---------------------------*/
+
+.halo {
+    background-image: url("../image/image.jpg");
+    overflow: hidden;
+    padding-top: 50px;
+    height: 500px;
+    margin-top: 10px;
+}
+
+.halo h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.halo h1 span {
+    color: #D15A1C;
+}
+
+.halo p {
+    text-align: center;
+    color: #a9aab0;
+}
+
+.h11 {
+    margin-left: 400px;
+    width: 25%;
+}
+
+.h11 input {
+    border: #D15A1C solid 1px;
+}
+
+.h11 input td {
+    margin-left: 40px;
+}
+
+.h11 textarea {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: #D15A1C solid 1px;
+}
+
+.h11 button {
+    background: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 65px;
+    border: #D15A1C solid 1px;
+}
+
+.h11 button:hover {
+    background-color: #D15A1C;
+}
+
+.h11 i {
+    padding: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/*---------------------------start halo---------------------------*/
+
+.imm {
+    overflow: hidden;
+    height: 750px;
+}
+
+.imm h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.imm h1 span {
+    color: #D15A1C;
+}
+
+.imm p {
+    text-align: center;
+    color: #D0D1D4;
+}
+
+.pop img {
+    border-radius: 25px;
+    padding: 5px;
+    height: 200px;
+    width: 30%;
+    margin: 7px;
+    float: left;
+}
+
+.pop img:hover {
+    border: #D15A1C solid 1px;
+}
+
+.imm button {
+    border: #D15A1C solid 1px;
+    background: none;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+
+/*---------------------------end halo---------------------------*/
+
+.foter {
+    background-image: url("../image/foter\ image.jpg");
+    text-align: center;
+    height: 400px;
+    padding-top: 200px;
+}
+
+.foter i {
+    padding: 10px;
+    color: aqua;
+    border: #D15A1C solid 1px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+
+.foter q {
+    color: #CCCCCC;
+}
+
+.foter h4 {
+    color: #fff;
+}
